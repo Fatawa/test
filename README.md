@@ -1,4 +1,6 @@
 # test
-Test for Epsilon Date Science Diploma
+Test for Epsilon Data Science Diploma
 
-##test version
+## Test Version
+
+> solving thanos project
